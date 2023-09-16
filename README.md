@@ -19,7 +19,7 @@ This program will store stargazers' "username", "name", "email", "twitter_userna
    ```bash
    python main.py -r 'username/reponame' -t <GitHub Token>
    ```
-3. Check the result file at `username__reponame.csv`
+3. Check the result file at `username_reponame_date.csv`
 
 ## Demo
 
